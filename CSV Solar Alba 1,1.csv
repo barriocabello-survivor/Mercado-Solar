@@ -1,0 +1,160 @@
+Tipo,Marca,Modelo,Potencia_inversor_kW,Potencia_panel_W,Cantidad_paneles,Capacidad_bateria_kWh,Tecnologia,Precio_USD,Precio_con_instalacion_USD,Estado,Municipio,Modalidad_venta,Fuente,Observaciones,Precio_por_W_USD
+Kit,Infini Solar,Saco,12.0,,,16,Litio,6500.0,,Nuevo,No especificado,Kit,Publicación recopilada,Inversor 12 kW 110/220V + batería 16 kWh (51.2V/320Ah); transporte incluido; garantía y papeles.,
+Inversor,PowMR,,10.0,,,,Híbrido,2000.0,,Nuevo,No especificado,Unidad,Publicación recopilada,10 kW / 48V; nuevo en caja; transporte incluido; garantía y papeles.,
+Kit,,,5.0,650.0,8.0,5,Bifacial,4200.0,,No especificado,No especificado,Kit,Publicación recopilada,Inversor 5 kW + batería 5 kWh + 8 paneles de 650 W.,6.4615
+Batería,Felicitysolar,,,,,14.5,Litio,3150.0,,No especificado,No especificado,Unidad,Publicación recopilada,51.2V / 283Ah.,
+Batería,Felicitysolar,,,,,16,Litio,3300.0,,No especificado,No especificado,Unidad,Publicación recopilada,51.2V / 312.5Ah.,
+Kit,,,8.0,650.0,12.0,16,Bifacial,7900.0,,No especificado,No especificado,Kit,Publicación recopilada,Inversor 8 kW + batería 16 kWh + 12 paneles 650 W.,12.1538
+Kit,,,8.0,650.0,12.0,15,Bifacial,7600.0,,No especificado,No especificado,Kit,Publicación recopilada,Inversor 8 kW + batería 15 kWh + 12 paneles 650 W.,11.6923
+Inversor,Felicitysolar,,8.0,,,,Híbrido,1600.0,,No especificado,No especificado,Unidad,Publicación recopilada,110/220V.,
+Inversor,Must,,6.0,,,,Híbrido,1050.0,,Nuevo,La Habana,Unidad,Publicación recopilada,$1000 por mayor; 110/220V.,
+Kit,Jasaki / Fintra,,10.0,590.0,8.0,20,Bifacial,8200.0,,Nuevo,La Habana,Kit,Publicación recopilada,"2 baterías de 10 kWh; envío gratis a La Habana, Artemisa y Mayabeque; montaje; garantía 2 meses.",13.8983
+Kit,Jasaki / Felicity Solar o Bluesun,,10.0,590.0,8.0,16,Bifacial,9400.0,,Nuevo,La Habana,Kit,Publicación recopilada,Batería 16 kWh; montaje; garantía 2 meses.,15.9322
+Kit,Must / Felicity Solar o Bluesun,,6.0,590.0,6.0,16,Bifacial,7600.0,,Nuevo,La Habana,Kit,Publicación recopilada,Montaje; garantía 2 meses.,12.8814
+Kit,Infinisolar,,6.0,590.0,6.0,15,Bifacial,6900.0,,Nuevo,La Habana,Kit,Publicación recopilada,All-in-One; montaje; garantía 3 meses.,11.6949
+Kit,Must / Fintra,,6.0,590.0,6.0,5,Bifacial,5800.0,,No especificado,La Habana,Kit,Publicación recopilada,Montaje; garantía/factura 2 meses.,9.8305
+Kit,Must,,6.0,590.0,6.0,10,Bifacial,6800.0,,No especificado,La Habana,Kit,Publicación recopilada,Montaje; garantía/factura 2 meses.,11.5254
+Kit,Must,,3.0,590.0,4.0,2.5,Bifacial,3900.0,,No especificado,La Habana,Kit,Publicación recopilada,Garantía/factura 2 meses.,6.6102
+Kit,Must,,3.0,590.0,4.0,7,Bifacial,5200.0,,No especificado,La Habana,Kit,Publicación recopilada,Montaje; garantía/factura 2 meses.,8.8136
+Kit,Infinisolar,,3.0,590.0,4.0,5,Bifacial,4800.0,,No especificado,La Habana,Kit,Publicación recopilada,Montaje; garantía/factura 3 meses.,8.1356
+Inversor + Batería,POWmr,,4.5,,,5.12,Híbrido,2000.0,,No especificado,No especificado,Combo,Publicación recopilada,Batería 25.6V/200Ah; incluye cables y extintor de línea; montaje aparte.,
+Inversor + Batería,Sumry,,3.6,,,,hibrido ,1200.0,,No especificado,No especificado,Combo,Publicación recopilada,Inversor 3.6 kW 24V + batería 25.6V/100Ah; cables; montaje aparte,
+Inversor,Must,PV33-6048,6.0,,,,Híbrido,1050.0,,Nuevo,La Habana,Unidad,Publicación recopilada,6000W/48V; salida 120/240V; MPPT; precio mayorista $1000.,
+Inversor + Batería,Must,,3.0,,,7.68,LiFePO4,3500.0,,Nuevo,No especificado,All-in-One,Publicación recopilada,Batería integrada; transporte incluido; garantía y papeles.,
+Inversor,Zeneogk,,6.2,,,,Híbrido,850.0,,No especificado,Guanabo,Unidad,Publicación recopilada,Soporta baterías.,
+Kit,Eco-Worthy + Vatt,,5.0,,,5,LiFePO4,1900.0,,Nuevo,No especificado,Combo,Publicación recopilada,Batería 48V/100Ah; BMS 200A; transporte incluido; garantía y papeles.,
+Inversor,Sumry,,4.0,,,,Senoidal pura / Híbrido,370.0,,No especificado,La Habana,Unidad,Publicación recopilada,4000W continua / 8000W pico; 24V DC / 120V AC; entrega incluida.,
+Kit,Must,,,,,,Sistema solar completo,2600.0,,No especificado,La Habana,Kit,Publicación recopilada,"Catálogo 3, 4, 6, 10 y 12 kW; precios dependen del kit/instalación.",
+Kit,Diseño Almaceo,,,,,5.12,LiFePO4,1800.0,,No especificado,El Cerro,Combo,Publicación recopilada,Opción A: inversor + batería 25.6V/200Ah; cables.,
+Kit,Diseño Almaceo,,,,,2.56,LiFePO4,1200.0,,No especificado,El Cerro,Combo,Publicación recopilada,Opción B: inversor + batería 25.6V/100Ah; cables.,
+Panel,,,,545.0,1.0,,,180.0,,No especificado,La Habana,Unidad,Publicación recopilada,Mensajería incluida.,0.3303
+Panel,,,,550.0,1.0,,,180.0,,No especificado,La Habana,Unidad,Publicación recopilada,Mensajería incluida.,0.3273
+Panel,Jinko,,,535.0,1.0,,,180.0,,No especificado,La Habana,Unidad,Publicación recopilada,Mensajería incluida.,0.3364
+Panel,,,,615.0,1.0,,,260.0,,No especificado,La Habana,Unidad,Publicación recopilada,Mensajería incluida.,0.4228
+Panel,EcoFlow,,,450.0,1.0,,,180.0,,No especificado,La Habana,Unidad,Publicación recopilada,Original; primera mano; transporte/mensajería gratis.,0.4
+Kit,MUST / JMD,,6.0,620.0,6.0,16,Bifacial,8900.0,,No especificado,La Habana,Kit,Publicación recopilada,Inversor 6 kW + batería MUST 16 kWh; transporte y montaje; garantía 2 meses equipos / 1 mes instalación.,14.3548
+Panel,LONGi,,,500.0,1.0,,Bifacial monocristalino,230.0,,No especificado,La Habana,Unidad,Publicación recopilada,Pedido mínimo 4; envío gratis; factura + 1 mes garantía.,0.46
+Panel,LONGi,,,600.0,1.0,,Bifacial monocristalino,270.0,,No especificado,La Habana,Unidad,Publicación recopilada,Pedido mínimo 4; envío gratis; factura + 1 mes garantía.,0.45
+Panel,LONGi,,,750.0,1.0,,Bifacial monocristalino,320.0,,No especificado,La Habana,Unidad,Publicación recopilada,Pedido mínimo 4; envío gratis; factura + 1 mes garantía.,0.4267
+Panel,Jinergy,,,550.0,1.0,,Monofacial,165.0,,Nuevo,El Cerro,Unidad,Publicación recopilada,Ficha técnica; mensajería con costo adicional.,0.3
+Estructura,,,,,4.0,,,220.0,,No especificado,No especificado,Kit,Publicación recopilada,Soporte para 4 paneles; transporte incluido.,
+Panel + Accesorios,,,,590.0,1.0,,Bifacial,400.0,,No especificado,No especificado,Combo,Publicación recopilada,Base + 10 m cable + conectores.,678
+Kit,,,4.0,600.0,2.0,2.5,,2600.0,2850,No especificado,La Habana,Kit,Publicación recopilada,Precio sin/con instalación; factura; 3 meses garantía.,4.3333
+Kit,,,3.0,600.0,4.0,5,,4000.0,4300,No especificado,La Habana,Kit,Publicación recopilada,Precio sin/con instalación; transporte incluido.,6.6667
+Kit,,,6.0,600.0,4.0,5,,5000.0,5300,No especificado,La Habana,Kit,Publicación recopilada,Precio sin/con instalación; transporte incluido.,8.3333
+Panel,Milexus,,,500.0,1.0,,Bifacial monocristalino,182.0,,No especificado,La Habana,Unidad,Publicación recopilada,$170 por cantidad; Voc 44.24V / Isc 14.17A.,364
+Kit,,,4.0,,,2.5,,2600.0,3000,No especificado,No especificado,Kit,Publicación recopilada,Precio sin/con instalación.,
+Kit,,,3.0,,,5,,4000.0,4400,No especificado,No especificado,Kit,Publicación recopilada,Precio sin/con instalación.,
+Kit,,,6.0,,,5,,5000.0,5400,No especificado,No especificado,Kit,Publicación recopilada,Precio sin/con instalación.,
+Kit,,,6.0,,,10,,6200.0,6600,No especificado,No especificado,Kit,Publicación recopilada,Precio sin/con instalación.,
+Kit,,,6.0,,,15,,6700.0,7100,No especificado,No especificado,Kit,Publicación recopilada,Precio sin/con instalación.,
+Kit,,,10.0,,,15,,8200.0,8500,No especificado,No especificado,Kit,Publicación recopilada,Precio sin/con instalación.,
+Kit,,,12.0,,,15,,9200.0,9600,No especificado,No especificado,Kit,Publicación recopilada,Precio sin/con instalación.,
+Panel,AxisSoft,,,620.0,1.0,,Bifacial,210.0,,No especificado,Playa,Unidad,Publicación recopilada,49.60V / Isc 15.91A.,0.3387
+Kit,,,6.2,625.0,4.0,5.12,LiFePO4,,4810,No especificado,No especificado,Kit,Publicación recopilada,"Incluye protecciones AC/DC, cableado MC4, breakers y montaje.",
+Kit,Zeneogk + Humsienk,,6.2,625.0,4.0,5.12,LiFePO4,4810.0,,No especificado,Centro Habana,Kit,Publicación recopilada,"Llave en mano; protecciones, seccionadores, cable solar, accesorios y soporte.",7696
+Kit,Mfuzop + Humsienk,,5.0,,,5.12,LiFePO4,1950.0,,No especificado,Centro Habana,Combo,Publicación recopilada,BMS 200A.,
+Kit,Mfuzop,,5.0,,,5,LiFePO4,3200.0,,No especificado,Centro Habana,Combo,Publicación recopilada,BMS 200A.,
+Inversor,PowMr,,6.2,,,,Híbrido,1300.0,,No especificado,Diez de Octubre,Unidad,Publicación recopilada,110/220V; MPPT 140A; onda senoidal pura; garantía.,
+Inversor,Sumry,,4.0,,,,Híbrido,700.0,,No especificado,Centro Habana,Unidad,Publicación recopilada,24VDC / 120VAC; transporte incluido.,
+Inversor,PowMr,,,,,,Híbrido,460.0,,Nuevo,Cotorro,Unidad,Publicación recopilada,Nuevo en caja con manual.,
+Kit,Sumry + Feuruetc,,4.0,,,2.56,LiFePO4,1180.0,,No especificado,Habana del Este,Combo,Publicación recopilada,Batería 12.8V/200Ah; +6000 ciclos al 80% DOD.,
+Inversor,Zeneogk,,6.2,,,,Híbrido,900.0,,Nuevo,Centro Habana,Unidad,Publicación recopilada,Transporte incluido; posible duplicado de otra oferta Zeneogk $900.,
+Inversor,Aninerel,,6.2,,,,Híbrido,450.0,,No especificado,Playa,Unidad,Publicación recopilada,Entrada 24V; salida 120V AC; descripción indica soporte de hasta 6200W FV.,
+Inversor,Sako,,5.0,,,,Híbrido,820.0,,No especificado,Centro Habana,Unidad,Publicación recopilada,1 mes de garantía.,
+Inversor,Sumry,,4.0,,,,Híbrido,450.0,,No especificado,Centro Habana,Unidad,Publicación recopilada,8000W pico; MPPT 140A; 7 días garantía.,
+Inversor,Sumry,,4.0,,,,Híbrido,420.0,,No especificado,Centro Habana,Mayorista,Publicación recopilada,Precio por lote >5 unidades; 7 días garantía.,
+Inversor,Sumry,,4.0,,,,Híbrido,400.0,,No especificado,Plaza,Unidad,Publicación recopilada,24VDC / 120VAC.,
+Inversor,SAKO,,12.0,,,,Híbrido,1950.0,,No especificado,Playa,Unidad,Publicación recopilada,"Split Phase 110/220V; entrada FV máx. 12,000W; paralelo 1-6 unidades.",
+Inversor,Zeneogk,,6.2,,,,Híbrido,900.0,,Nuevo,Centro Habana,Unidad,Publicación recopilada,48V; 110/220V; 30 días garantía de prueba; posible duplicado.,
+Batería,Qidianfy,,,,,2.56,LiFePO4,640.0,,No especificado,Diez de Octubre,Unidad,Publicación recopilada,25.6V / 100Ah.,
+Batería,WattCycle,,,,,2.4,LiFePO4,630.0,,No especificado,Diez de Octubre,Unidad,Publicación recopilada,24V / 100Ah; BMS 100A.,
+Batería,CT SOLAR,,,,,1.8,GEL,245.0,,No especificado,Diez de Octubre,Unidad,Publicación recopilada,12V / 150Ah; ciclo profundo.,
+Batería,Humsienk,,,,,4.02,LiFePO4,810.0,,No especificado,Habana del Este,Unidad,Publicación recopilada,12V / 314Ah; BMS 200A; Bluetooth; IP65.,
+Batería,POERUN,,,,,2.56,LiFePO4,580.0,,No especificado,Habana del Este,Unidad,Publicación recopilada,12.8V / 200Ah.,
+Batería,POERUNI,,,,,2.56,LiFePO4,530.0,,No especificado,Centro Habana,Unidad,Publicación recopilada,12.8V / 200Ah; >4000 ciclos.,
+Batería,Humsienk,,,,,1.28,LiFePO4,100.0,,No especificado,Diez de Octubre,Unidad,Publicación recopilada,12V / 100Ah; BMS 100A.,
+Batería,YEAGULCH,,,,,1.28,LiFePO4,400.0,,Nuevo,Centro Habana,Unidad,Publicación recopilada,12.8V / 100Ah; caja sellada; sin garantía.,
+Batería,DUMFUME,,,,,2.56,LiFePO4,640.0,,No especificado,Marianao,Unidad,Publicación recopilada,25.6V / 100Ah.,
+Batería,Humsienk,,,,,1.2,LiFePO4,290.0,,No especificado,Playa,Unidad,Publicación recopilada,12V / 100Ah.,
+Batería,,,,,,2.4,LiFePO4,630.0,,No especificado,Playa,Unidad,Publicación recopilada,24V / 100Ah.,
+Batería,,,,,,4.8,LiFePO4,1100.0,,No especificado,Playa,Unidad,Publicación recopilada,24V / 200Ah.,
+Batería,,,,,,4.8,LiFePO4,1300.0,,No especificado,Playa,Unidad,Publicación recopilada,48V / 100Ah; capacidad calculada como 48V×100Ah.,
+Batería,POERUNI,,,,,1.28,LiFePO4,270.0,,No especificado,Centro Habana,Unidad,Publicación recopilada,12.8V / 100Ah; >5000 ciclos.,
+Batería,,,,,,1.28,LiFePO4,270.0,,No especificado,Centro Habana,Unidad,Publicación recopilada,12V / 100Ah; opción destacada.,
+Estación de energía,EcoFlow,Delta 3 Classic,,,,,,650.0,,No especificado,Centro Habana,Unidad,Publicación recopilada,Equipo relacionado con respaldo/energía solar; conservar como categoría separada.,
+Estación de energía,Oupes,Exodus 1200,,,,,,550.0,,No especificado,Centro Habana,Unidad,Publicación recopilada,Estación/inversor; conservar como categoría separada.,
+Batería,,,,,,2.4,LiFePO4,615.0,,No especificado,Centro Habana,Unidad,Publicación recopilada,24V / 100Ah.,
+Batería,YEAGULCH,,,,,2.56,LiFePO4,560.0,,No especificado,Plaza,Unidad,Publicación recopilada,25.6V / 100Ah; ciclo profundo.,
+Batería,DUMFUME,,,,,4.02,LiFePO4,700.0,,No especificado,Centro Habana,Unidad,Publicación recopilada,12.8V / 314Ah; BMS 200A; >4000 ciclos.,
+Batería,YEAGULCH,,,,,1.28,LiFePO4,270.0,,Nuevo,Diez de Octubre,Mayorista/minorista,Publicación recopilada,12.8V / 100Ah; venta mayorista y minorista.,
+Batería,POERUNI,,,,,1.28,LiFePO4,250.0,,No especificado,Cerro,Unidad,Publicación recopilada,12.8V / 100Ah; descarga pico 180A.,
+Panel,,,,510.0,1.0,,Monocristalino bifacial,200.0,,No especificado,Centro Habana,Combo,Publicación recopilada,Incluye cable EcoFlow XT60i; IP68; 23% eficiencia.,0.3922
+Panel,,,,450.0,1.0,,,130.0,,No especificado,Centro Habana,Unidad,Publicación recopilada,Alta eficiencia; resistente al clima.,0.2889
+Panel,Milexus,,,500.0,1.0,,,160.0,,No especificado,Centro Habana,Unidad,Publicación recopilada,Alta eficiencia.,0.32
+Panel,,,,550.0,1.0,,,175.0,,No especificado,Centro Habana,Unidad,Publicación recopilada,Alta eficiencia.,0.3182
+Panel,,,,615.0,1.0,,,255.0,,No especificado,Centro Habana,Unidad,Publicación recopilada,Alta eficiencia.,0.4146
+Panel,WAAREE,,,590.0,1.0,,Bifacial TOPCon,340.0,,No especificado,Playa,Unidad,Publicación recopilada,Transporte según municipio; compatible con EcoFlow.,0.5763
+Batería,TOPMAQ,,,,,2.52,Litio,870.0,,No especificado,Marianao,Unidad,Publicación recopilada,72V / 35Ah; incluye cargador; garantía 1 mes.,
+Panel,Jinko Solar,,,630.0,1.0,,N-Type bifacial,265.0,,No especificado,San Miguel del Padrón,Unidad,Publicación recopilada,"HOT 3.0, SMBB, Anti-PID; transporte incluido.",0.4206
+Panel,LONGi,,,620.0,1.0,,Bifacial,240.0,,No especificado,Diez de Octubre / Centro Habana,Unidad,Publicación recopilada,"Pmax 620W; Voc 48.78V; Isc 16.05A; factura, garantía y transporte.",0.3871
+Panel,,,,625.0,1.0,,Bifacial monocristalino,200.0,,Nuevo,Marianao,Unidad,Publicación recopilada,2382×1134×30 mm; 33.5 kg.,0.32
+Panel,Solarever,,,450.0,1.0,,,175.0,,No especificado,Cerro,Unidad,Publicación recopilada,450W.,0.3889
+Panel,Ever,,,450.0,1.0,,Bifacial monocristalino,175.0,,No especificado,La Habana,Unidad,Publicación recopilada,Factura; garantía 1 mes; domicilio incluido.,0.3889
+Panel,Jinko Solar,,,535.0,1.0,,Bifacial monocristalino,185.0,,No especificado,La Habana,Unidad,Publicación recopilada,Factura; garantía 1 mes; domicilio incluido.,0.3458
+Panel,Solarever USA,,,470.0,1.0,,Bifacial,210.0,,No especificado,Playa,Unidad,Publicación recopilada,Diseñado para EcoFlow; 15A / 35.75V; XT60i.,0.4468
+Panel,,,,580.0,1.0,,Monocristalino,160.0,,No especificado,Playa,Mayorista,Publicación recopilada,Pallet de 36 unidades; $5760 por pallet.,0.2759
+Panel,LONGi,,,615.0,1.0,,,190.0,,No especificado,Centro Habana,Mayorista,Publicación recopilada,Pallet de 36; $6840 por pallet.,0.3089
+Panel,Boviet,,,450.0,1.0,,,130.0,,No especificado,Centro Habana,Unidad,Publicación recopilada,Venta unitaria.,0.2889
+Panel,Milexus,,,500.0,1.0,,,160.0,,No especificado,Centro Habana,Unidad,Publicación recopilada,Venta unitaria.,0.32
+Panel,Boviet Solar,,,545.0,1.0,,,170.0,,No especificado,Centro Habana,Unidad,Publicación recopilada,$160 por pallet de 31 unidades.,0.3119
+Panel,Boviet Solar,,,550.0,1.0,,Bifacial,170.0,,No especificado,Centro Habana,Unidad,Publicación recopilada,$160 por pallet de 31 unidades.,0.3091
+Panel,Boviet Solar,,,615.0,1.0,,Bifacial,250.0,,No especificado,Centro Habana,Unidad,Publicación recopilada,Unidad/cantidad.,0.4065
+Panel,LONGi,LR7-72HGD,,615.0,1.0,,,185.0,,No especificado,Plaza,Unidad,Publicación recopilada,Modelo LR7-72HGD; 615W.,0.3008
+Panel,LONGi,Hi-MO 7 / LR7-72HGD-615M,,615.0,1.0,,Bifacial,200.0,,No especificado,Diez de Octubre,Mayorista,Publicación recopilada,22.8% eficiencia; precio mayorista +10 paneles.,0.3252
+Panel,,,,600.0,1.0,,,165.0,,No especificado,Playa,Unidad,Publicación recopilada,Garantía 1 mes; transporte incluido.,275
+Panel,,,,620.0,1.0,,,170.0,,No especificado,Playa,Unidad,Publicación recopilada,Garantía 1 mes; transporte incluido.,0.2742
+Panel,,,,450.0,1.0,,,130.0,,No especificado,Centro Habana,Unidad,Publicación recopilada,Oferta repetida en listado de paneles.,0.2889
+Panel,Milexus,,,500.0,1.0,,,160.0,,No especificado,Centro Habana,Unidad,Publicación recopilada,Oferta repetida en listado.,0.32
+Panel,,,,550.0,1.0,,,175.0,,No especificado,Centro Habana,Unidad,Publicación recopilada,Oferta repetida en listado.,0.3182
+Panel,,,,615.0,1.0,,,255.0,,No especificado,Centro Habana,Unidad,Publicación recopilada,Oferta repetida en listado.,0.4146
+Inversor,ZENEOGK,,6.2,,,,Híbrido,850.0,,No especificado,Guanabo,Unidad,Publicación recopilada,Alta eficiencia; soporta baterías.,
+Kit,Eco-Worthy + Vatt,,5.0,,,5,LiFePO4,1900.0,,Nuevo,No especificado,Combo,Publicación recopilada,"48V/100Ah; MPPT; transporte, garantía y papeles.",
+Inversor + Batería,Must,All in One,3.0,,,7.68,LiFePO4,3500.0,,Nuevo,No especificado,All-in-One,Publicación recopilada,"48V; 110/220V; transporte, garantía y papeles.",
+Batería,WattCycle,,,,,2.4,LiFePO4,560.0,,No especificado,No especificado,Unidad,Publicación recopilada,24V / 100Ah.,
+Inversor,Sumry,,4.0,,,,Híbrido,390.0,,No especificado,No especificado,Unidad,Publicación recopilada,Precio reportado; también aparece oferta de $370.,
+Inversor,Sumry,,4.0,,,,Híbrido,370.0,,No especificado,La Habana,Unidad,Publicación recopilada,Promoción con entrega incluida.,
+Kit,,,,,,2.56,LiFePO4,1200.0,,No especificado,El Cerro,Combo,Publicación recopilada,Inversor + batería 25.6V/100Ah.,
+Kit,,,,,,5.12,LiFePO4,1800.0,,No especificado,El Cerro,Combo,Publicación recopilada,Inversor + batería 25.6V/200Ah.,
+Panel,Jinergy,,,550.0,1.0,,Monofacial,165.0,,Nuevo,El Cerro,Unidad,Publicación recopilada,Ficha técnica; mensajería con costo adicional.,0.3
+Panel,Milexus,,,500.0,1.0,,Bifacial monocristalino,182.0,,No especificado,La Habana,Unidad,Publicación recopilada,$170 por mayor; pallets de 36.,364
+Panel,AxisSoft,,,620.0,1.0,,Bifacial,210.0,,No especificado,Playa,Unidad,Publicación recopilada,49.60V / Isc 15.91A.,0.3387
+Kit,MUST,,6.2,625.0,4.0,5.12,LiFePO4,,4810,No especificado,No especificado,Kit,Publicación recopilada,Kit híbrido completo; montaje profesional.,
+Kit,MUST / JMD,,6.0,620.0,6.0,16,Bifacial,8900.0,,No especificado,La Habana,Kit,Publicación recopilada,Transporte y montaje; garantía 2 meses equipos / 1 mes instalación.,14.3548
+Batería,DZLLD / Yeagulch,,,,,1.28,LiFePO4,390.0,,No especificado,No especificado,Unidad,Publicación recopilada,"Capacidad 12.8V 100Ah (1280Wh); Ciclos de carga profunda, BMS integrado.",
+Batería,Poeruni,,,,,2.56,LiFePO4,690.0,,No especificado,No especificado,Unidad,Publicación recopilada,"Capacidad 12.8V 200Ah (2560Wh); Ciclos de carga profunda, BMS integrado.",
+Batería,DZLLD,,,,,2.56,LiFePO4,790.0,,No especificado,No especificado,Unidad,Publicación recopilada,"Capacidad 25.6V 100Ah (2560Wh / 2560W); Ciclos de carga profunda, BMS integrado.",
+Batería,TOPMAQ / CATL,,,,,5.4,Litio,1600.0,,Nuevo,10 de Octubre ,Unidad,Publicación recopilada,"Capacidad 72V 75Ah; Celdas prismáticas 2026, Bluetooth, BMS ANT, resistente al agua (Water Proof), nueva y sellada en caja; Incluye cargador inteligente; Contactos: 52647315 / 53637525.",
+Batería,WattCycle,,,,,5.12,LiFePO4,1730.0,,No especificado,No especificado,Unidad,Publicación recopilada,"Capacidad 5120Wh (5.12 kWh); Celdas Grado A, balanceo activo 3A, >6000 ciclos profundos, pantalla táctil y Bluetooth; Compatibilidad: EcoFlow Delta 2 / Max / Delta 3; Garantía 1 mes; Solo recogida.",
+Batería,MUST,LP16-48200,,,,10.2,LiFePO4,3140.0,,No especificado,No especificado,Unidad,Publicación recopilada,Capacidad 10.2 kWh / 51.2V 200Ah; Descarga máxima continua 150A; Potencia máxima 7.5kW; Comunicación CAN/RS485; Protección IP21; Peso 81 kg; Garantía 1 mes.,
+Panel,LONGi,LR7-72HVD-650M,,650.0,1.0,,Monocristalino,250.0,,No especificado,Playa,Unidad,Publicación recopilada,"Monocristalino LR7-72HVD-650M; 650W; Moneda de pago: USD, Euro, CUP (CUP a 10 pesos por encima del Toque); Transporte: Mensajería con costo adicional; Contacto WhatsApp: 54209533.",0.3846
+Kit,Sumry,,4.0,,,2.56,Litio,1220.0,,No especificado,No especificado,Kit,Publicación recopilada,"Inversor Sumry 4kW 110V + 2 baterías de 1280Wh cada una (12.8V 100Ah c/u, aprox 2.5 kWh total).",
+Kit,MFUZOP / Sumry,,5.5,,,4.8,LiFePO4,1980.0,,No especificado,No especificado,Kit,Publicación recopilada,Inversor 5.5kW 110V + Batería Werchtay LiFePO4 48V 100Ah (4.8 kWh / 5 kWh).,
+Kit,Werchtay / Genérica,,6.2,,,4.8,Híbrido / LiFePO4,2330.0,,No especificado,No especificado,Kit,Publicación recopilada,Inversor Híbrido 6.2kW 48V (Salida 110V/220V) + Batería Werchtay LiFePO4 48V 100Ah (5 kWh); No incluye paneles.,
+Kit,,,6.2,,2.0,5.0,Híbrido / LiFePO4,2930.0,,No especificado,10 de Octubre,Kit,Publicación recopilada,"Inversor Híbrido 6.2kW 48V (Salida 110V/220V) + Batería LiFePO4 5 kWh + 2 paneles solares + cables; Garantía 1 año; Ubicación: La Habana, 10 de Octubre, Santos Suárez; Contactos: 52647315 / 53637525.",
+Kit,Sumry / Humsienk,,4.0,,,3.84,Senoidal pura / Smart,1200.0,,Nuevo,No especificado,Kit,Publicación recopilada,"Inversor SUMRY 4kW (110V/220V, onda senoidal pura) + 2 baterías HUMSIENK Smart 12V 150Ah (3840Wh total); Solo recogida en local; Contacto: 54585056.",
+Kit,Must,PV33-3024 TLV / LP16-48100,3.0,,,5.0,Litio / LiFePO4,2600.0,,Nuevo,No especificado,Kit,Publicación recopilada,"Inversor Must PV33-3024 TLV 3000W (110V/220V, MPPT) + Batería Must LP16-48100 5 kWh (200Ah); Incluye transporte.",
+Kit,,,3.0,600.0,4.0,5.12,Sistema solar completo,,,Nuevo,No especificado,Kit,Publicación recopilada,Inversor 3kW + Batería 5 kWh (25.6V 200Ah) + 4 paneles de 600W; Incluye transporte e instalación/montaje; Contacto: 58355804.,
+Kit,,,6.0,600.0,5.0,10.24,Sistema solar completo,,,Nuevo,No especificado,Kit,Publicación recopilada,Inversor 6kW + Batería 10 kWh (51.2V 200Ah) + 5 paneles de 600W; Incluye transporte e instalación/montaje; Contacto: 58355804.,
+Kit,,,12.0,600.0,12.0,15.36,Sistema solar completo,,,Nuevo,No especificado,Kit,Publicación recopilada,Inversor 12kW + Batería 15 kWh (51.2V 300Ah) + 12 paneles de 600W; Incluye transporte e instalación/montaje; Contacto: 58355804.,
+Kit,Sumry,,3.0,,,2.56,Híbrido / Litio,1200.0,,Nuevo,No especificado,Kit,Publicación recopilada,Inversor híbrido Sumry 3000W (110V/24V) + Batería 25.6V 100Ah + Juego de cables; Nuevo en caja.,
+Kit,POWmr / Rid Inverter,,4.5,,,5.12,Híbrido / Litio,2000.0,,Nuevo,La Habana,Kit,Publicación recopilada,Inversor híbrido POWmr 4500W (110V/24V) + Batería 25.6V 200Ah (BMS 200A) + extintor de línea Rid Inverter + juego de cables; Transporte incluido en La Habana; Contacto: 51628871.,
+Kit,,,5.0,,,5.0,Litio / Híbrido,2100.0,,Nuevo,No especificado,Combo,Publicación recopilada,Combo batería 5 kWh + inversor de 5 kW; Contacto WhatsApp: 56581114.,
+Inversor + Batería,Must,All in One,3.0,,,7.0,Litio,2580.0,,Nuevo,No especificado,All-in-One,Publicación recopilada,Inversor Must Todo en Uno 3kW con 7 kWh de respaldo; Incluye transporte; Contacto WhatsApp: 56581114.,
+Kit,Must,,3.0,,,5.0,Litio,2590.0,,Nuevo,No especificado,Kit,Publicación recopilada,Kit Inversor Must 3000W con Batería Must 5000Wh; Incluye transporte; Contacto WhatsApp: 56581114.,
+Kit,SAKO / Milexus,,1.0,500.0,1.0,2.0,Bifacial monocristalino,1020.0,,Nuevo,No especificado,Combo,Publicación recopilada,Inversor SAKO 1000W con batería integrada 2000Wh + 1 Panel Solar Milexus Bifacial Monocristalino 500W; Incluye transporte; Contacto WhatsApp: 56581114.,
+Panel,Ever,,,450.0,1.0,,Monocristalino,190.0,,Nuevo,No especificado,Unidad,Publicación recopilada,Panel solar Ever 450W; Incluye transporte; Contacto WhatsApp: 56581114.,0.4222
+Panel,Riven,,,590.0,1.0,,Monocristalino,200.0,,Nuevo,No especificado,Unidad,Publicación recopilada,Panel solar Riven 590W; Incluye transporte; Contacto WhatsApp: 56581114.,339
+Panel,LONGi,,,635.0,1.0,,Monocristalino,215.0,,Nuevo,No especificado,Unidad,Publicación recopilada,Panel solar LONGi 635W; Incluye transporte; Contacto WhatsApp: 56581114.,0.3386
+Kit,,,5.5,,,4.8,Híbrido / Litio,1980.0,,Nuevo,No especificado,Kit,Publicación recopilada,Kit de Inversor 5.5 kW (110V) + Batería de 4.8 kWh.,
+Kit,,,6.2,,,5.0,Híbrido / Litio,2330.0,,Nuevo,No especificado,Kit,Publicación recopilada,Kit de Inversor 6.2 kW (110V/220V) + Batería de 5 kWh.,
