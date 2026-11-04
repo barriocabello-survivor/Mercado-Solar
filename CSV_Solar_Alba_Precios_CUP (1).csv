@@ -1,0 +1,186 @@
+﻿ID,Tipo,Marca,Precio_USD,Precio_CUP_formal,Precio_CUP_informal,Precio_instalacion_USD,Precio_instalacion_CUP_formal,Precio_instalacion_CUP_informal,Tasa_formal_CUP_por_USD,Fuente_tasa_formal,Tasa_informal_CUP_por_USD,Fuente_tasa_informal
+1,Kit,Infini Solar,6500,5037500,5915000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+2,Inversor,PowMR,2000,1550000,1820000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+3,Kit,,4200,3255000,3822000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+4,Batería,Felicitysolar,3150,2441250,2866500,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+5,Batería,Felicitysolar,3300,2557500,3003000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+6,Kit,,7900,6122500,7189000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+7,Kit,,7600,5890000,6916000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+8,Inversor,Felicitysolar,1600,1240000,1456000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+9,Inversor,Must,1050,813750,955500,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+10,Kit,Jasaki / Fintra,8200,6355000,7462000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+11,Kit,Jasaki / Felicity Solar o Bluesun,9400,7285000,8554000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+12,Kit,Must / Felicity Solar o Bluesun,7600,5890000,6916000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+13,Kit,Infinisolar,6900,5347500,6279000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+14,Kit,Must / Fintra,5800,4495000,5278000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+15,Kit,Must,6800,5270000,6188000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+16,Kit,Must,3900,3022500,3549000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+17,Kit,Must,5200,4030000,4732000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+18,Kit,Infinisolar,4800,3720000,4368000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+19,Inversor + Batería,POWmr,2000,1550000,1820000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+20,Inversor + Batería,Sumry,1200,930000,1092000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+21,Inversor,Must,1050,813750,955500,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+22,Inversor + Batería,Must,3500,2712500,3185000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+23,Inversor,Zeneogk,850,658750,773500,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+24,Kit,Eco-Worthy + Vatt,1900,1472500,1729000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+25,Inversor,Sumry,370,286750,336700,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+26,Kit,Must,2600,2015000,2366000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+27,Kit,Diseño Almaceo,1800,1395000,1638000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+28,Kit,Diseño Almaceo,1200,930000,1092000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+29,Panel,,180,139500,163800,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+30,Panel,,180,139500,163800,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+31,Panel,Jinko,180,139500,163800,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+32,Panel,,260,201500,236600,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+33,Panel,EcoFlow,180,139500,163800,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+34,Kit,MUST / JMD,8900,6897500,8099000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+35,Panel,LONGi,230,178250,209300,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+36,Panel,LONGi,270,209250,245700,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+37,Panel,LONGi,320,248000,291200,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+38,Panel,Jinergy,165,127875,150150,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+39,Estructura,,220,170500,200200,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+40,Panel + Accesorios,,400,310000,364000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+41,Kit,,2600,2015000,2366000,2850,2208750,2593500,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+42,Kit,,4000,3100000,3640000,4300,3332500,3913000,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+43,Kit,,5000,3875000,4550000,5300,4107500,4823000,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+44,Panel,Milexus,182,141050,165620,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+45,Kit,,2600,2015000,2366000,3000,2325000,2730000,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+46,Kit,,4000,3100000,3640000,4400,3410000,4004000,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+47,Kit,,5000,3875000,4550000,5400,4185000,4914000,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+48,Kit,,6200,4805000,5642000,6600,5115000,6006000,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+49,Kit,,6700,5192500,6097000,7100,5502500,6461000,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+50,Kit,,8200,6355000,7462000,8500,6587500,7735000,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+51,Kit,,9200,7130000,8372000,9600,7440000,8736000,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+52,Panel,AxisSoft,210,162750,191100,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+53,Kit,,,,,4810,3727750,4377100,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+54,Kit,Zeneogk + Humsienk,4810,3727750,4377100,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+55,Kit,Mfuzop + Humsienk,1950,1511250,1774500,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+56,Kit,Mfuzop,3200,2480000,2912000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+57,Inversor,PowMr,1300,1007500,1183000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+58,Inversor,Sumry,700,542500,637000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+59,Inversor,PowMr,460,356500,418600,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+60,Kit,Sumry + Feuruetc,1180,914500,1073800,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+61,Inversor,Zeneogk,900,697500,819000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+62,Inversor,Aninerel,450,348750,409500,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+63,Inversor,Sako,820,635500,746200,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+64,Inversor,Sumry,450,348750,409500,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+65,Inversor,Sumry,420,325500,382200,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+66,Inversor,Sumry,400,310000,364000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+67,Inversor,SAKO,1950,1511250,1774500,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+68,Inversor,Zeneogk,900,697500,819000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+69,Batería,Qidianfy,640,496000,582400,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+70,Batería,WattCycle,630,488250,573300,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+71,Batería,CT SOLAR,245,189875,222950,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+72,Batería,Humsienk,810,627750,737100,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+73,Batería,POERUN,580,449500,527800,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+74,Batería,POERUNI,530,410750,482300,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+75,Batería,Humsienk,100,77500,91000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+76,Batería,YEAGULCH,400,310000,364000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+77,Batería,DUMFUME,640,496000,582400,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+78,Batería,Humsienk,290,224750,263900,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+79,Batería,,630,488250,573300,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+80,Batería,,1100,852500,1001000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+81,Batería,,1300,1007500,1183000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+82,Batería,POERUNI,270,209250,245700,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+83,Batería,,270,209250,245700,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+84,Estación de energía,EcoFlow,650,503750,591500,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+85,Estación de energía,Oupes,550,426250,500500,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+86,Batería,,615,476625,559650,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+87,Batería,YEAGULCH,560,434000,509600,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+88,Batería,DUMFUME,700,542500,637000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+89,Batería,YEAGULCH,270,209250,245700,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+90,Batería,POERUNI,250,193750,227500,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+91,Panel,,200,155000,182000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+92,Panel,,130,100750,118300,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+93,Panel,Milexus,160,124000,145600,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+94,Panel,,175,135625,159250,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+95,Panel,,255,197625,232050,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+96,Panel,WAAREE,340,263500,309400,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+97,Batería,TOPMAQ,870,674250,791700,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+98,Panel,Jinko Solar,265,205375,241150,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+99,Panel,LONGi,240,186000,218400,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+100,Panel,,200,155000,182000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+101,Panel,Solarever,175,135625,159250,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+102,Panel,Ever,175,135625,159250,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+103,Panel,Jinko Solar,185,143375,168350,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+104,Panel,Solarever USA,210,162750,191100,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+105,Panel,,160,124000,145600,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+106,Panel,LONGi,190,147250,172900,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+107,Panel,Boviet,130,100750,118300,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+108,Panel,Milexus,160,124000,145600,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+109,Panel,Boviet Solar,170,131750,154700,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+110,Panel,Boviet Solar,170,131750,154700,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+111,Panel,Boviet Solar,250,193750,227500,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+112,Panel,LONGi,185,143375,168350,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+113,Panel,LONGi,200,155000,182000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+114,Panel,,165,127875,150150,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+115,Panel,,170,131750,154700,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+116,Panel,,130,100750,118300,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+117,Panel,Milexus,160,124000,145600,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+118,Panel,,175,135625,159250,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+119,Panel,,255,197625,232050,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+120,Inversor,ZENEOGK,850,658750,773500,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+121,Kit,Eco-Worthy + Vatt,1900,1472500,1729000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+122,Inversor + Batería,Must,3500,2712500,3185000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+123,Batería,WattCycle,560,434000,509600,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+124,Inversor,Sumry,390,302250,354900,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+125,Inversor,Sumry,370,286750,336700,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+126,Kit,,1200,930000,1092000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+127,Kit,,1800,1395000,1638000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+128,Panel,Milexus,182,141050,165620,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+129,Kit,MUST,,,,4810,3727750,4377100,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+130,Kit,MUST / JMD,8900,6897500,8099000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+131,Batería,DZLLD / Yeagulch,390,302250,354900,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+132,Batería,Poeruni,690,534750,627900,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+133,Batería,DZLLD,790,612250,718900,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+134,Batería,TOPMAQ / CATL,1600,1240000,1456000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+135,Batería,WattCycle,1730,1340750,1574300,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+136,Batería,MUST,3140,2433500,2857400,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+137,Panel,LONGi,250,193750,227500,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+138,Kit,Sumry,1220,945500,1110200,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+139,Kit,MFUZOP / Sumry,1980,1534500,1801800,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+140,Kit,Werchtay / Genérica,2330,1805750,2120300,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+141,Kit,,2930,2270750,2666300,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+142,Kit,Sumry / Humsienk,1200,930000,1092000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+143,Kit,Must,2600,2015000,2366000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+144,Kit,,,,,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+145,Kit,,,,,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+146,Kit,,,,,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+147,Kit,Sumry,1200,930000,1092000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+148,Kit,POWmr / Rid Inverter,2000,1550000,1820000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+149,Kit,,2100,1627500,1911000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+150,Inversor + Batería,Must,2580,1999500,2347800,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+151,Kit,Must,2590,2007250,2356900,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+152,Kit,SAKO / Milexus,1020,790500,928200,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+153,Panel,Ever,190,147250,172900,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+154,Panel,Riven,200,155000,182000,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+155,Panel,LONGi,215,166625,195650,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+156,Kit,,1980,1534500,1801800,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+157,Kit,,2330,1805750,2120300,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+158,Kit,Jinko / Felicitysolar,3200,2480000,2912000,3200,2480000,2912000,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+159,Inversor + Batería,SRNE,1000,775000,910000,1000,775000,910000,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+160,Kit,Suuer / Severi,500,387500,455000,500,387500,455000,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+161,Kit,Risen / Deye,5500,4262500,5005000,5500,4262500,5005000,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+162,Inversor + Batería,Must,420,325500,382200,420,325500,382200,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+163,Kit,Longi / Must,1950,1511250,1774500,1950,1511250,1774500,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+164,Inversor + Batería,Growatt / Victron Energy,2100,1627500,1911000,2100,1627500,1911000,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+165,Kit,Amerisolar / PowMr,2600,2015000,2366000,2600,2015000,2366000,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+166,Inversor + Batería,EDECOA,530,410750,482300,530,410750,482300,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+167,Kit,JA Solar / Deye,4200,3255000,3822000,4200,3255000,3822000,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+168,Inversor + Batería,Schneider Electric,2900,2247500,2639000,2900,2247500,2639000,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+169,Kit,PowMr,850,658750,773500,850,658750,773500,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+170,Inversor + Batería,Genérico,340,263500,309400,340,263500,309400,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+171,Kit,Trina Solar / Victron / Pylontech,3800,2945000,3458000,3800,2945000,3458000,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+172,Kit,Canadian Solar / Growatt,4900,3797500,4459000,4900,3797500,4459000,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+173,Inversor + Batería,Must,2100,1627500,1911000,2100,1627500,1911000,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+174,Kit,Easun Power,1750,1356250,1592500,1750,1356250,1592500,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+175,Estación de energía,Jackery,1000,775000,910000,1000,775000,910000,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+176,Kit,Chino genérico,680,527000,618800,680,527000,618800,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+177,Kit,Longi / PowMr / EVE,2500,1937500,2275000,2500,1937500,2275000,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+178,Inversor + Batería,APC,890,689750,809900,890,689750,809900,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+179,Kit,Jinko / Deye / Felicity,2950,2286250,2684500,2950,2286250,2684500,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+180,Inversor + Batería,Must,920,713000,837200,920,713000,837200,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+181,Kit,Hyundai / Growatt,1650,1278750,1501500,1650,1278750,1501500,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+182,Kit,Longi / PowMr,5000,3875000,4550000,5000,3875000,4550000,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+183,Kit,Must,4750,3681250,4322500,4750,3681250,4322500,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+184,Kit,PT,,,,,,,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
+185,Inversor + Batería,Must,1970,1526750,1792700,1970,1526750,1792700,775,https://www.bc.gob.cu/tasas-de-cambio,910,https://eltoque.com/tasas-de-cambio-cuba/dolar
